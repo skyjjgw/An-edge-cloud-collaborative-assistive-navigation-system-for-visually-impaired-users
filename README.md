@@ -1,6 +1,6 @@
 # OmniVision / 视桥智导
 
-> CN: 面向视障辅助场景的端云协同导盲系统  
+> CN: 面向视障辅助场景的端边云协同导盲系统  
 > EN: An edge-cloud collaborative assistive navigation system for visually impaired users
 
 本仓库是面向 GitHub 交付整理后的标准化多端项目仓库，统一收纳云端服务、盲人端客户端、志愿者端 App 三个端的核心代码，并补充共享配置模板、部署脚本、API 参考与交接文档，目标是让新的开发者能够在不了解项目历史的前提下快速接手。
